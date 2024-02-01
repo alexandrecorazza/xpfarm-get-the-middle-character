@@ -34,4 +34,9 @@ The middle character(s) of the word represented as a string.
 Driver: Alexandre
 Navigator: Alexandre
 
-1. If the string length is not between 0 and 1000 return false
+1. If the string length is not between 0 and 1000 return false ✅
+
+2. If the string length is odd, return the middle character ✅
+
+# Podmodoro 1 🍅:
+1. If the string length is odd, return the middle character ✅
