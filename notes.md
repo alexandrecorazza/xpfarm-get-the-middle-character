@@ -33,3 +33,5 @@ The middle character(s) of the word represented as a string.
 # Podmodoro 1 🍅:
 Driver: Alexandre
 Navigator: Alexandre
+
+1. If the string length is not between 0 and 1000 return false

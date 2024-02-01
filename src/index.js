@@ -1,6 +1,7 @@
-const myFunction = () => {
+const middleChar = () => {
+  return false
 };
   
 module.exports = {
-  myFunction,
+  middleChar,
 };
